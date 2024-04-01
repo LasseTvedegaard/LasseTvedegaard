@@ -8,6 +8,9 @@ I'm a computer science student passionate about building software and eager to l
 - 🚀 I'm on the lookout for opportunities where I can contribute and grow as a developer in an IT firm.
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/lassetvedegaard/)
 
+- Languages and Tools:
+-  csharp docker dotnet git java mssql 
+
 Feel free to browse my repositories and reach out if you're interested in collaborating!
 
 
