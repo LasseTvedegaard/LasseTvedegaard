@@ -10,6 +10,7 @@ I'm a computer science student passionate about building software and eager to l
 
 - Languages and Tools:
   
+![image](https://github.com/LasseTvedegaard/LasseTvedegaard/assets/148621311/0de804d6-6cda-4fe8-a80a-1e0355e5e73e)
 ![image](https://github.com/LasseTvedegaard/LasseTvedegaard/assets/148621311/d149278e-c062-441c-b969-5c50f82a4afe)
 
 
