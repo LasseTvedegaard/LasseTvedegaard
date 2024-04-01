@@ -12,6 +12,8 @@ I'm a computer science student passionate about building software and eager to l
   
 ![image](https://github.com/LasseTvedegaard/LasseTvedegaard/assets/148621311/7f55a259-c6b4-41de-98ed-f83b7892cdc5)
 ![image](https://github.com/LasseTvedegaard/LasseTvedegaard/assets/148621311/d149278e-c062-441c-b969-5c50f82a4afe)
+![image](https://github.com/LasseTvedegaard/LasseTvedegaard/assets/148621311/353c613c-92fc-4462-9f43-fcf20ff6b8f4)
+
 
 
 
