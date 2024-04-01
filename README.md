@@ -8,7 +8,7 @@ I'm a computer science student passionate about building software and eager to l
 - 🚀 I'm on the lookout for opportunities where I can contribute and grow as a developer in an IT firm.
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/lassetvedegaard/)
 
-- Languages and Tools:
+**Languages and Tools:**
   
 ![image](https://github.com/LasseTvedegaard/LasseTvedegaard/assets/148621311/7f55a259-c6b4-41de-98ed-f83b7892cdc5)
 ![image](https://github.com/LasseTvedegaard/LasseTvedegaard/assets/148621311/d149278e-c062-441c-b969-5c50f82a4afe)
