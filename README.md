@@ -9,7 +9,8 @@ I'm a computer science student passionate about building software and eager to l
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/lassetvedegaard/)
 
 - Languages and Tools:
-[-  [csharp](https://dotnet.microsoft.com/en-us/languages/csharp) docker dotnet git java mssql ](https://www.w3schools.com/cs/index.php)
+![image](https://github.com/LasseTvedegaard/LasseTvedegaard/assets/148621311/d282c4ed-943d-4ee2-99b4-1834f60680db)
+
 
 Feel free to browse my repositories and reach out if you're interested in collaborating!
 
