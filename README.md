@@ -9,7 +9,8 @@ I'm a computer science student passionate about building software and eager to l
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/lassetvedegaard/)
 
 - Languages and Tools:
-[![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![image](https://github.com/LasseTvedegaard/LasseTvedegaard/assets/148621311/d149278e-c062-441c-b969-5c50f82a4afe)
+
 
 
 Feel free to browse my repositories and reach out if you're interested in collaborating!
